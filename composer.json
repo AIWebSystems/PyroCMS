@@ -34,6 +34,7 @@
         "tijsverkoyen/akismet": "1.1.*"
     },
     "require-dev": {
+        "fabpot/goutte": "1.*",
         "phing/phing": "2.6.*"
     }
 }
